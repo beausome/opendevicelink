@@ -1,0 +1,14 @@
+# Build output
+/bin/
+/dist/
+/opendevicelink
+/opendevicelink.exe
+*.test
+*.out
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
